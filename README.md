@@ -71,8 +71,7 @@ SIGNUP/LOGIN/LOGOUT features
 
 <br />
 
-**Demo gif:**<br />
-![me](https://github.com/318anushka/Rojgar/blob/master/rojgar.gif)
+
 
 ## Available Scripts
 
