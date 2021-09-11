@@ -1,12 +1,7 @@
 ## ROJGAR APP<br />
 Easy to use, customised job search platform for blue collar workers.
 
-Github Link:
-https://github.com/318anushka/Rojgar<br />
-WebApp Link:
-https://rojgar-app.herokuapp.com/signin<br />
-Video Link:
-https://vimeo.com/511585277<br />
+
 
 
 **Problem** <br />
