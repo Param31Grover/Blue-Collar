@@ -1,4 +1,4 @@
-## ROJGAR APP<br />
+## BLUE COLLAR<br />
 Easy to use, customised job search platform for blue collar workers.
 
 
